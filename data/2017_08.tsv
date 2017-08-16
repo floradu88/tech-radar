@@ -1,0 +1,107 @@
+AWS S3	Data Mgt	file object store	2	ADOPT
+Cassandra	Data Mgt	NoSql DB	2	ADOPT
+PostgreSQL	Data Mgt	RDBMS	2	ADOPT
+Redis	Data Mgt	NoSql DB/caching	2	ADOPT
+Solr	Data Mgt	NoSql Search DB	2	ADOPT
+Java	Languages	impl. language	2	ADOPT
+Javascript	Languages	impl. language	2	ADOPT
+Python	Languages	impl. language	2	ADOPT
+Docker	Platforms & Infrastructure	Container/Deployment	2	ADOPT
+Jetty	Platforms & Infrastructure	webserver	2	ADOPT
+ZMON	Platforms & Infrastructure	Zalando Monitoring System	2	ADOPT
+STUPS	Platforms & Infrastructure	PaaS tool set	1.9	ADOPT
+Nginx	Platforms & Infrastructure	webserver / loadbalancer	1.9	ADOPT
+Hystrix	Platforms & Infrastructure	lib for fault tolerance	1.8	ADOPT
+Spring	Techniques; Frameworks & Tools	impl. frw mixed	1.8	ADOPT
+Scala	Languages	impl. language	1.8	ADOPT
+AWS EMR	Data Mgt	data processing frw	1.8	ADOPT
+AWS SNS	Data Mgt	messaging service	1.8	ADOPT
+AWS SQS	Data Mgt	message queues	1.8	ADOPT
+ElasticSearch	Data Mgt	NoSql Search DB	1.8	ADOPT
+Nakadi	Data Mgt	event bus	1.8	ADOPT
+Spark	Data Mgt	event processing	1.8	ADOPT
+Go	Languages	impl. language	1.8	ADOPT
+Swift	Languages	impl. language	1.8	ADOPT
+etcd	Platforms & Infrastructure	distributed key/value store	1.8	ADOPT
+Tomcat	Platforms & Infrastructure	webserver	1.8	ADOPT
+Akka (Scala)	Techniques; Frameworks & Tools		1.8	ADOPT
+Node.js	Techniques; Frameworks & Tools	server-side JS	1.8	ADOPT
+ReactJS	Techniques; Frameworks & Tools	JS framework for SPA	1.8	ADOPT
+RxJava (Android)	Techniques; Frameworks & Tools	reactive framework	1.8	ADOPT
+OpenAPI (Swagger)	Techniques; Frameworks & Tools	rest api frw	1.8	ADOPT
+HAProxy	Platforms & Infrastructure	loadbalancer	1.7	ADOPT
+Kafka	Data Mgt	message queues	1.5	ADOPT
+Play (Scala)	Techniques; Frameworks & Tools		1.5	ADOPT
+scikit-learn	Techniques; Frameworks & Tools	lib for machine learning	1.5	ADOPT
+Typescript	Languages	impl. language	1.4	TRIAL
+Kubernetes	Platforms & Infrastructure	cluster resource manager	1.4	TRIAL
+Angular	Techniques; Frameworks & Tools	JS framework	1.4	TRIAL
+OpenNLP	Techniques; Frameworks & Tools	Natural Language Processing	1.3	TRIAL
+Kairos	Data Mgt	TS DB	1.3	TRIAL
+Clojure	Languages	impl. language	1.3	TRIAL
+Thymeleaf	Techniques; Frameworks & Tools	Templating Framework	1.1	TRIAL
+Presto	Data Mgt	query engine	1	TRIAL
+Apache Camel	Techniques; Frameworks & Tools	enterprise integration framework	0.9	TRIAL
+Camunda BPMN Engine	Techniques; Frameworks & Tools	workflow engine	0.8	TRIAL
+AspectJ	Techniques; Frameworks & Tools	Aspect Oriented Language (JVM)	0.7	TRIAL
+AWS DynamoDB	Data Mgt	NoSql DB	0.5	TRIAL
+Undertow	Platforms & Infrastructure	webserver	0.4	TRIAL
+Hadoop/HDFS	Data Mgt	distributed storage	0.3	TRIAL
+Google BigQuery	Data Mgt	NoSql DB	0.3	TRIAL
+Flink	Data Mgt	event processing	0.1	TRIAL
+Zookeeper	Platforms & Infrastructure	distributed computing	0.1	TRIAL
+Ember.js	Techniques; Frameworks & Tools	JS framework	-0.2	ASSESS
+gRPC	Techniques; Frameworks & Tools	RPC framework	-0.2	ASSESS
+Http4s	Techniques; Frameworks & Tools	Scala HTTP framework	-0.2	ASSESS
+AWS Kinesis	Data Mgt	event processing	-0.3	ASSESS
+Hadoop/YARN	Data Mgt	cluster resource manager	-0.4	ASSESS
+R	Languages	impl. language	-0.4	ASSESS
+Consul	Platforms & Infrastructure	distributed computing	-0.5	ASSESS
+Akka-Http	Techniques; Frameworks & Tools	Scala HTTP framework	-0.5	ASSESS
+Haskell	Languages	impl. language	-0.5	ASSESS
+Elm	Languages		-0.7	ASSESS
+Flux	Techniques; Frameworks & Tools	JS methodology for usage with React	-0.7	ASSESS
+AWS Lambda	Platforms & Infrastructure	computing service	-0.8	ASSESS
+Vert.x	Techniques; Frameworks & Tools	async communication framework	-0.8	ASSESS
+Google BigTable	Data Mgt	NoSql DB	-0.8	ASSESS
+Play (Java)	Techniques; Frameworks & Tools		-0.9	ASSESS
+Kotlin	Languages	language on the JVM	-0.9	ASSESS
+Rust	Languages	impl. language	-0.9	ASSESS
+Hadoop/MR	Data Mgt	data processing frw	-1	ASSESS
+Aurelia	Techniques; Frameworks & Tools	JS framework	-1	ASSESS
+RabbitMQ	Data Mgt	message queues	-1.1	HOLD
+InfluxDB	Data Mgt	TS DB	-1.1	HOLD
+Neo4j	Data Mgt	Graph DB	-1.1	HOLD
+Grizzly	Platforms & Infrastructure	webserver	-1.1	HOLD
+Riak	Data Mgt	NoSql DB	-1.2	HOLD
+Hadoop/HBase	Data Mgt	NoSql DB	-1.2	HOLD
+CouchBase	Data Mgt	NoSql DB	-1.3	HOLD
+HornetQueue	Data Mgt	message queues	-1.4	HOLD
+BackboneJS	Techniques; Frameworks & Tools	JS framework	-1.4	HOLD
+Erlang	Languages	impl. language	-1.4	HOLD
+Aerospike	Data Mgt	NoSql DB/caching	-1.5	HOLD
+Apache Artemis	Data Mgt	message queues	-1.5	HOLD
+C/C++	Languages	impl. language	-1.5	HOLD
+Coffeescript	Languages	impl. language	-1.5	HOLD
+Mesos	Platforms & Infrastructure	resource manager	-1.5	HOLD
+Spray	Techniques; Frameworks & Tools		-1.5	HOLD
+MySQL	Data Mgt	RDBMS	-1.5	HOLD
+Esper CEP	Data Mgt	Complex Event Processor	-1.6	HOLD
+Graphite	Data Mgt	TS DB	-1.6	HOLD
+Groovy	Languages	impl. language	-1.6	HOLD
+saltstack	Platforms & Infrastructure	infrastructure management	-1.7	HOLD
+Jython	Languages	impl. language	-1.7	HOLD
+Activiti	Techniques; Frameworks & Tools	workflow engine	-1.8	HOLD
+MongoDB	Data Mgt	NoSql DB	-1.8	HOLD
+PHP	Languages		-1.8	HOLD
+Drools	Techniques; Frameworks & Tools	business rule engine	-1.8	HOLD
+Oracle DB	Data Mgt	RDBMS	-1.8	HOLD
+JBoss	Platforms & Infrastructure	Application Server	-1.8	HOLD
+Perl	Languages	impl. language	-1.9	HOLD
+ActiveMQ	Data Mgt	message queues	-1.9	HOLD
+JRuby	Languages	impl. language	-1.9	HOLD
+Ruby	Languages	impl. language	-1.9	HOLD
+MemCached	Data Mgt	caching	-2	HOLD
+.NET / languages	Languages	.NET software appl platform including .NET based programming languages like C#, F#	-2	HOLD
+Puppet	Platforms & Infrastructure	config mgt	-2	HOLD
+AngularJS 1.x	Techniques; Frameworks & Tools	JS framework	-2	HOLD
